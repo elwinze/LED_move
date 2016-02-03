@@ -197,7 +197,7 @@
                                                                                                                     </value>
                                                                                                                     <next>
                                                                                                                       <block type="led_select" id="308" inline="true">
-                                                                                                                        <field name="ACTION">ON</field>
+                                                                                                                        <field name="ACTION">OFF</field>
                                                                                                                         <value name="LED">
                                                                                                                           <block type="math_number" id="309">
                                                                                                                             <field name="NUM">1</field>
@@ -205,7 +205,7 @@
                                                                                                                         </value>
                                                                                                                         <next>
                                                                                                                           <block type="led_select" id="310" inline="true">
-                                                                                                                            <field name="ACTION">ON</field>
+                                                                                                                            <field name="ACTION">OFF</field>
                                                                                                                             <value name="LED">
                                                                                                                               <block type="math_number" id="311">
                                                                                                                                 <field name="NUM">2</field>
