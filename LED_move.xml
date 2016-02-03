@@ -133,7 +133,7 @@
                                                                               <block type="movement_reverse" id="234">
                                                                                 <next>
                                                                                   <block type="led_select" id="237" inline="true">
-                                                                                    <field name="ACTION">OFF</field>
+                                                                                    <field name="ACTION">ON</field>
                                                                                     <value name="LED">
                                                                                       <block type="math_number" id="238">
                                                                                         <field name="NUM">2</field>
